@@ -10,7 +10,7 @@ The Lit Review can take a few directions. For instance
 ## What do we know about driving forces behind library activities? 
 * Here, defined as number of checkouts and may number of renewals
 * Ideally, we can find literature about studies done in the area of public libraries. If there is none, a broader scope (which covers all kind of libraries) will be used. 
-* In LISTA, the most useful subject term is "LIBRARY circulation analysis". At the first glance, it does look like it is more being done in academic libraries 
+* In LISTA, the most useful subject term is "LIBRARY circulation analysis". At the first glance, it does look like it is more being done in academic libraries. 	DE "LIBRARY circulation analysis" AND DE "public libraries" 
 
 Works Cited
 
