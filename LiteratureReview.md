@@ -38,4 +38,6 @@ Luzius, Jeff. “A Look at Circulation Statistics.” Journal of Access Services
 
 Nagy, Andrew. “Chapter 5: The Impact of the Next-Generation Catalog.” Library Technology Reports, vol. 47, no. 7, Oct. 2011, pp. 18–20. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=69736268&site=ehost-live.
 
+Ottensmann, John R., and Raymond E. Gnat. “Similarities in Circulation Pattern among Public Library Serving Diverse Populations.” Library Quarterly, vol. 65, no. 1, Jan. 1995, p. 89. EBSCOhost, doi:10.1086/602754.
+
 Raiteri, Steve. “Graphic Novels.” Library Journal, vol. 131, no. 5, Mar. 2006, p. 58. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=20052151&site=ehost-live.
