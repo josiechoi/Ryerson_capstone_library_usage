@@ -10,3 +10,12 @@ The Lit Review can take a few directions. For instance
 ## What do we know about driving forces behind library activities? 
 * Here, defined as number of checkouts and may number of renewals
 * Ideally, we can find literature about studies done in the area of public libraries. If there is none, a broader scope (which covers all kind of libraries) will be used. 
+* In LISTA, the most useful subject term is "LIBRARY circulation analysis". At the first glance, it does look like it is more being done in academic libraries 
+
+Bibliography 
+
+Comito, Lauren. “DPL, SFPL Offer Innovative Homeless Services.” Library Journal, vol. 140, no. 17, Oct. 2015, pp. 13–16. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=110530174&site=ehost-live.
+
+Landgraf, Mary N. “Library Cards for the Homeless.” American Libraries, vol. 22, no. 10, Nov. 1991, p. 946. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=9112233292&site=ehost-live.
+
+Lilienthal, Stephen M. “The Problem Is Not the Homeless.” Library Journal, vol. 136, no. 11, June 2011, pp. 30–34. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=61428299&site=ehost-live.
