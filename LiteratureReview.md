@@ -23,3 +23,5 @@ Landgraf, Mary N. “Library Cards for the Homeless.” American Libraries, vol.
 Lilienthal, Stephen M. “The Problem Is Not the Homeless.” Library Journal, vol. 136, no. 11, June 2011, pp. 30–34. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=61428299&site=ehost-live.
 
 Luzius, Jeff. “A Look at Circulation Statistics.” Journal of Access Services, vol. 2, no. 4, Jan. 2005, pp. 15–22. EBSCOhost, doi:10.1300/J204v02n04_03.
+
+Nagy, Andrew. “Chapter 5: The Impact of the Next-Generation Catalog.” Library Technology Reports, vol. 47, no. 7, Oct. 2011, pp. 18–20. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=69736268&site=ehost-live.
