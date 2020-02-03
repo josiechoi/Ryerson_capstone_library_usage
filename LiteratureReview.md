@@ -11,7 +11,7 @@ The Lit Review can take a few directions. For instance
 * Here, defined as number of checkouts and may number of renewals
 * Ideally, we can find literature about studies done in the area of public libraries. If there is none, a broader scope (which covers all kind of libraries) will be used. 
 * In LISTA, the most useful subject term is "LIBRARY circulation analysis". At the first glance, it does look like it is more being done in academic libraries. 	DE "LIBRARY circulation analysis" AND DE "public libraries" 
-* Interestingly, American public libraries use an index called "Index of American Public Libraries Circulation" to gauge whether their circulation statistics is proportional to the expenditures (Cree and Yoon. 2005). 
+* Interestingly, American public libraries use an index called "Index of American Public Libraries Circulation" to gauge whether their circulation statistics is proportional to the expenditures (Cree and Yoon. 2005). It does not look like there is much studies done using patron data to better understand the patrons. 
 
 Works Cited
 
