@@ -12,9 +12,11 @@ The Lit Review can take a few directions. For instance
 * Ideally, we can find literature about studies done in the area of public libraries. If there is none, a broader scope (which covers all kind of libraries) will be used. 
 * In LISTA, the most useful subject term is "LIBRARY circulation analysis". At the first glance, it does look like it is more being done in academic libraries 
 
-Bibliography 
+Works Cited
 
 Comito, Lauren. “DPL, SFPL Offer Innovative Homeless Services.” Library Journal, vol. 140, no. 17, Oct. 2015, pp. 13–16. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=110530174&site=ehost-live.
+
+Galbi, DouglasA. “Book Circulation Per U.S. Public Library User Since 1856.” Public Library Quarterly, vol. 27, no. 4, Dec. 2008, pp. 351–371. EBSCOhost, doi:10.1080/01616840802477144.
 
 Landgraf, Mary N. “Library Cards for the Homeless.” American Libraries, vol. 22, no. 10, Nov. 1991, p. 946. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=9112233292&site=ehost-live.
 
