@@ -11,14 +11,23 @@ The Lit Review can take a few directions. For instance
 * Here, defined as number of checkouts and may number of renewals
 * Ideally, we can find literature about studies done in the area of public libraries. If there is none, a broader scope (which covers all kind of libraries) will be used. 
 * In LISTA, the most useful subject term is "LIBRARY circulation analysis". At the first glance, it does look like it is more being done in academic libraries. 	DE "LIBRARY circulation analysis" AND DE "public libraries" 
+* Interestingly, American public libraries use an index called "Index of American Public Libraries Circulation" to gauge whether their circulation statistics is proportional to the expenditures (Cree and Yoon. 2005). 
 
 Works Cited
 
+Brunvand, Amy. "Fake patrons as civil disobedience." American Libraries, Mar.-Apr. 2017, p. 9. Gale OneFile: CPI.Q, https://link-gale-com.ezproxy.lib.ryerson.ca/apps/doc/A488605139/CPI?u=rpu_main&sid=CPI&xid=aab27c28. Accessed 3 Feb. 2020.
+
 Comito, Lauren. “DPL, SFPL Offer Innovative Homeless Services.” Library Journal, vol. 140, no. 17, Oct. 2015, pp. 13–16. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=110530174&site=ehost-live.
+
+Cree, Charity L., and Mijung Yoon. “Public Library Circulation Decreases, Expenditures Rise.” American Libraries, vol. 36, no. 10, Nov. 2005, pp. 57–58. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=18738597&site=ehost-live.
 
 Galbi, DouglasA. “Book Circulation Per U.S. Public Library User Since 1856.” Public Library Quarterly, vol. 27, no. 4, Dec. 2008, pp. 351–371. EBSCOhost, doi:10.1080/01616840802477144.
 
+Hoffert, Barbara. “The Turnaround.” Library Journal, vol. 130, no. 3, Feb. 2005, pp. 36–38. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=16128918&site=ehost-live.
+
 Landgraf, Mary N. “Library Cards for the Homeless.” American Libraries, vol. 22, no. 10, Nov. 1991, p. 946. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=9112233292&site=ehost-live.
+
+“Library Circulation Booing in Lake County, Indiana.” Library Journal, vol. 108, no. 9, May 1983, p. 869. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=7572831&site=ehost-live.
 
 Lilienthal, Stephen M. “The Problem Is Not the Homeless.” Library Journal, vol. 136, no. 11, June 2011, pp. 30–34. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=61428299&site=ehost-live.
 
