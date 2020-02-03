@@ -27,7 +27,7 @@ Hoffert, Barbara. “The Turnaround.” Library Journal, vol. 130, no. 3, Feb. 2
 
 Landgraf, Mary N. “Library Cards for the Homeless.” American Libraries, vol. 22, no. 10, Nov. 1991, p. 946. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=9112233292&site=ehost-live.
 
-“Library Circulation Booing in Lake County, Indiana.” Library Journal, vol. 108, no. 9, May 1983, p. 869. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=7572831&site=ehost-live.
+“Library Circulation Booming in Lake County, Indiana.” Library Journal, vol. 108, no. 9, May 1983, p. 869. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=7572831&site=ehost-live.
 
 Lilienthal, Stephen M. “The Problem Is Not the Homeless.” Library Journal, vol. 136, no. 11, June 2011, pp. 30–34. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=61428299&site=ehost-live.
 
