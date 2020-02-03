@@ -13,7 +13,7 @@ The Lit Review can take a few directions. For instance,
 * In LISTA, the most useful subject term is "LIBRARY circulation analysis". At the first glance, it does look like it is more being done in academic libraries. 	DE "LIBRARY circulation analysis" AND DE "public libraries" 
 * Interestingly, 
 * Library circulation statistics are important to public libraries. In fact, librarians have gone so far to fake library usage as attempts to save low-usage but valuable items in their collectionsb (Brunvand Mar-Apr. 2017. It is however not common for public library professional to use patron data to understand the patrons.  American public libraries use an index called "Index of American Public Libraries Circulation" to gauge whether their circulation statistics is proportional to the expenditures (Cree and Yoon. 2005). This study, trying to tap into the power of data science to advance library science, is an novel idea. 
-* When seeing a surge or a drop in circulation statistics, public library professionals have explained the changes by attributing to various factors: mild weather (“Library Circulation Booming in Lake County, Indiana"), a popular addition - such as graphic novels , career-related books for a population with high unemployment rate) to the collection - 
+* When seeing a surge or a drop in circulation statistics, public library professionals have explained the changes by attributing to various factors: mild weather (“Library Circulation Booming in Lake County, Indiana"), a popular addition - such as graphic novels (Raiteri, 2006) , career-related books for a population with high unemployment rate (“Library Circulation Booming in Lake County, Indiana") to the collection - 
 
 Works Cited
 
@@ -36,3 +36,5 @@ Lilienthal, Stephen M. “The Problem Is Not the Homeless.” Library Journal, v
 Luzius, Jeff. “A Look at Circulation Statistics.” Journal of Access Services, vol. 2, no. 4, Jan. 2005, pp. 15–22. EBSCOhost, doi:10.1300/J204v02n04_03.
 
 Nagy, Andrew. “Chapter 5: The Impact of the Next-Generation Catalog.” Library Technology Reports, vol. 47, no. 7, Oct. 2011, pp. 18–20. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=69736268&site=ehost-live.
+
+Raiteri, Steve. “Graphic Novels.” Library Journal, vol. 131, no. 5, Mar. 2006, p. 58. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=lxh&AN=20052151&site=ehost-live.
