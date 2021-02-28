@@ -1,4 +1,4 @@
-# Ryerson_capstone_library_usage
+# Ryerson_capstone_library_usage: binary classification with imbalanced data
 Analysis of SFPL Library Usage stats for Ryerson Captone Project CKME 136
 Data Source: 
 https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup
